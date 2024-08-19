@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nishant-Pradhan8/todo-list-web-app/static/css/main.5afbf63c.css",
-    "main.js": "/Nishant-Pradhan8/todo-list-web-app/static/js/main.babf776a.js",
-    "static/media/bg-desktop-dark.jpg": "/Nishant-Pradhan8/todo-list-web-app/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
-    "index.html": "/Nishant-Pradhan8/todo-list-web-app/index.html",
-    "static/media/icon-check.svg": "/Nishant-Pradhan8/todo-list-web-app/static/media/icon-check.a8fb15d0278c8e312df5.svg",
-    "main.5afbf63c.css.map": "/Nishant-Pradhan8/todo-list-web-app/static/css/main.5afbf63c.css.map",
-    "main.babf776a.js.map": "/Nishant-Pradhan8/todo-list-web-app/static/js/main.babf776a.js.map"
+    "main.css": "/todo-list-web-app/static/css/main.6de4f408.css",
+    "main.js": "/todo-list-web-app/static/js/main.babf776a.js",
+    "static/media/bg-desktop-dark.jpg": "/todo-list-web-app/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/todo-list-web-app/index.html",
+    "static/media/icon-check.svg": "/todo-list-web-app/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.6de4f408.css.map": "/todo-list-web-app/static/css/main.6de4f408.css.map",
+    "main.babf776a.js.map": "/todo-list-web-app/static/js/main.babf776a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5afbf63c.css",
+    "static/css/main.6de4f408.css",
     "static/js/main.babf776a.js"
   ]
 }
