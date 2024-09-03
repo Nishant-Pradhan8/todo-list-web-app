@@ -1,70 +1,26 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   <h1>To-Do Application 📝</h1>
+    <p>A user-friendly to-do application built with React, designed to help users manage their tasks efficiently. This app was developed as a challenge from Frontend Mentor and provides a modern interface for creating, editing, and deleting tasks.</p>
+    <h2>Overview</h2>
+    <p>This project is a to-do application that allows users to organize their tasks in a straightforward and intuitive manner. Built using React, the app features a clean design and responsive layout, making it accessible on various devices.</p>   
+    <h2>Features</h2>
+    <ul>
+        <li><strong>Add Tasks:</strong> Users can easily add new tasks with a simple input field.</li>
+        <li><strong>Delete Tasks:</strong> Remove tasks that are no longer needed.</li>
+        <li><strong>Task Filtering:</strong> View all tasks, active tasks, or completed tasks.</li>
+        <li><strong>Dark Mode:</strong> Toggle between light and dark themes for a personalized experience.</li>
+    </ul>
+    <h2>Demo</h2>
+    <p>You can check out the live demo of the app <a href="https://nishant-pradhan8.github.io/todo-list-web-app/">here</a>.</p>
+    <h2>Usage</h2>
+    <ul>
+        <li>Enter your tasks in the input field and click the "Add" button to create a new task.</li>
+        <li>Click on a task to edit it or press the "Delete" button to remove it.</li>
+        <li>Use the filter options to view specific tasks.</li>
+    </ul>
+    <h2>Technologies Used</h2>
+    <ul>
+        <li><strong>React:</strong> For building the user interface.</li>
+        <li><strong>JavaScript:</strong> Core language for developing the app's logic.</li>
+        <li><strong>CSS:</strong> Styling the application.</li>
+        <li><strong>Frontend Mentor:</strong> Provided the design and challenge.</li>
+    </ul>
