@@ -11,12 +11,6 @@
     </ul>
     <h2>Demo</h2>
     <p>You can check out the live demo of the app <a href="https://nishant-pradhan8.github.io/todo-list-web-app/">here</a>.</p>
-    <h2>Usage</h2>
-    <ul>
-        <li>Enter your tasks in the input field and click the "Add" button to create a new task.</li>
-        <li>Click on a task to edit it or press the "Delete" button to remove it.</li>
-        <li>Use the filter options to view specific tasks.</li>
-    </ul>
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>React:</strong> For building the user interface.</li>
