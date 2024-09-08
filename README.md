@@ -10,7 +10,7 @@
         <li><strong>Dark Mode:</strong> Toggle between light and dark themes for a personalized experience.</li>
     </ul>
     <h2>Demo</h2>
-    <p>You can check out the live demo of the app <a href="https://nishant-pradhan8.github.io/todo-list-web-app/">here</a>.</p>
+    <p>You can check out the live demo of the app <a href="https://nishant-pradhan-8.github.io/todo-list-web-app/">here</a>.</p>
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>React:</strong> For building the user interface.</li>
